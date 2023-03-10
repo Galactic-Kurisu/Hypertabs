@@ -2,24 +2,12 @@
 # NOTICE:
 
 You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
-
-<!--
-                                _     _                     _       _   _          _                               _    
-     /\                        | |   | |                   | |     | \ | |        | |                             | |   
-    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
-   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
-  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
- /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
-                                               __/ |                                                                    
-                                              |___/                                                                     
--->
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
          
-<img src="https://socialify.git.ci/amethystnetwork-dev/Hypertabs/image?font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Famethystnetwork-dev%2FHypertabs%2Fmain%2Fstatic%2Ficon.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Hypertabs" width="640" height="320" />
 
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
-<a href="https://github.com/galactic-kurisu" alt=""><img src="https://img.shields.io/github/contributors/amethystnetwork-dev/Hypertabs?style=for-the-badge"></a>
+<a href="https://github.com/galactic-kurisu" alt=""><img "></a>
 
 </div>
 
@@ -39,10 +27,4 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They ar
 
 Press the join button to join the server:
 
-[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
-
-## Credits
-
-- [B3ATDROP3R](https://github.com/B3ATDROP3R)
-- [Caracal.js](https://github.com/caracal-js)
-- [luphoria](https://github.com/luphoria)
+[![Join us on Discord](https://discord.gg/rickroll/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)

@@ -1,7 +1,7 @@
 <!-- Notice for idiots -->
 # NOTICE:
 
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
+You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work. Also a goofy shitty fork of a another project thats modified and open source
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
          
